@@ -1,4 +1,4 @@
-from greets import greeteings
+from greets import greetings
 
-for g in greeteings:
+for g in greetings:
     print(g.title())
